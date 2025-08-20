@@ -6,7 +6,7 @@
 
 ### 报告 Bug
 
-如果您发现任何 Bug，请通过 [Issues](https://github.com/yuhong/your-repo-name/issues) 提交。
+如果您发现任何 Bug，请通过 [Issues](https://github.com/hyouo/knowledge/issues) 提交。
 
 请尽量提供详细的信息，包括：
 
@@ -17,7 +17,7 @@
 
 ### 提出改进建议
 
-如果您有任何改进项目的想法或建议，也请通过 [Issues](https://github.com/yuhong/your-repo-name/issues) 提出。
+如果您有任何改进项目的想法或建议，也请通过 [Issues](https://github.com/hyouo/knowledge/issues) 提出。
 
 请详细描述您的建议，并说明其潜在的好处。
 
@@ -28,8 +28,8 @@
 1.  **Fork 本仓库**：点击 GitHub 页面右上角的 "Fork" 按钮。
 2.  **克隆到本地**：
     ```bash
-    git clone https://github.com/您的用户名/解析.git
-    cd 解析
+    git clone https://github.com/hyouo/knowledge.git
+    cd knowledge
     ```
 3.  **创建新分支**：为您的改动创建一个新的分支，例如 `feature/your-feature-name` 或 `bugfix/your-bug-name`。
     ```bash
