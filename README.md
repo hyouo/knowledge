@@ -1,5 +1,3 @@
-Copyright (c) 2024 yuhong
-
 # 解析
 
 ## 简介
